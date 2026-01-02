@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "237161313750",
+    "firebase_url": "https://aqil-ed445-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aqil-ed445",
+    "storage_bucket": "aqil-ed445.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237161313750:android:9c6d08e1205909aba46077",
+        "android_client_info": {
+          "package_name": "com.example.firebase_145"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-9CaCGUsQf-mh-ZNY5wMCCPu80shoqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
